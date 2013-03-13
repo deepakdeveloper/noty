@@ -45,7 +45,7 @@
 			});
 
 			this.$message.css({
-				fontSize: '13px',
+				fontSize: '20px',
 				lineHeight: '16px',
 				textAlign: 'center',
 				padding: '8px 10px 9px',
